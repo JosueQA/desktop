@@ -1,0 +1,26 @@
+2022-12-18 16:51:56.819 [info] Log level: Info
+2022-12-18 16:51:56.820 [info] Validating found git in: "git"
+2022-12-18 16:51:56.820 [info] Using git "2.25.1" from "git"
+2022-12-18 16:51:56.820 [info] > git rev-parse --show-toplevel [114ms]
+2022-12-18 16:51:56.820 [info] > git rev-parse --git-dir --git-common-dir [19ms]
+2022-12-18 16:51:56.820 [info] Open repository: /home/paolo/npm/npm-init
+2022-12-18 16:51:56.826 [info] > git rev-parse --show-toplevel [14ms]
+2022-12-18 16:51:56.850 [warning] No remotes found in the git config file.
+2022-12-18 16:51:56.852 [info] > git config --get commit.template [27ms]
+2022-12-18 16:51:56.853 [info] > git remote --verbose [3ms]
+2022-12-18 16:51:56.854 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2022-12-18 16:51:56.878 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2022-12-18 16:51:57.300 [info] > git status -z -uall [441ms]
+2022-12-18 16:51:57.403 [info] > git check-ignore -v -z --stdin [10ms]
+2022-12-18 16:51:57.405 [info] > git config --get commit.template [3ms]
+2022-12-18 16:51:57.425 [warning] No remotes found in the git config file.
+2022-12-18 16:51:58.049 [info] > git show --textconv :package.json [45ms]
+2022-12-18 16:51:58.051 [info] > git remote --verbose [626ms]
+2022-12-18 16:51:58.051 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [637ms]
+2022-12-18 16:51:58.069 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+2022-12-18 16:51:58.069 [info] > git ls-files --stage -- /home/paolo/npm/npm-init/package.json [60ms]
+2022-12-18 16:51:58.087 [info] > git status -z -uall [32ms]
+2022-12-18 16:51:59.469 [info] > git show --textconv :src/index.js [20ms]
+2022-12-18 16:51:59.470 [info] > git ls-files --stage -- /home/paolo/npm/npm-init/src/index.js [14ms]
+2022-12-18 16:52:04.001 [info] > git show --textconv :package-lock.json [24ms]
+2022-12-18 16:52:04.001 [info] > git ls-files --stage -- /home/paolo/npm/npm-init/package-lock.json [1ms]

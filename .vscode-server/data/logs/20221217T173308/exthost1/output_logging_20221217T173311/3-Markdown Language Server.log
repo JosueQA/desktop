@@ -1,0 +1,19 @@
+[Trace 02:34:51.570] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Trace 02:34:51.575] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Trace 02:34:51.579] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Trace 02:34:51.588] DocumentSymbolProvider: provideDocumentSymbols — file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md 1
+[Debug 02:34:51.589] LinkProvider: compute - file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Trace 02:34:51.593] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Debug 02:34:51.732] TableOfContentsProvider: create - file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Debug 02:34:51.780] MdFoldingProvider: provideFoldingRanges — file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md 1
+[Trace 02:39:08.079] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Trace 02:39:08.079] VsCodeClientWorkspace: deleteDocument: file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Trace 03:28:08.054] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Trace 03:28:08.111] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Trace 03:28:08.111] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Trace 03:28:08.112] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Trace 03:28:08.112] DocumentSymbolProvider: provideDocumentSymbols — file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md 1
+[Debug 03:28:08.112] LinkProvider: compute - file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Trace 03:28:08.113] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Debug 03:28:08.120] TableOfContentsProvider: create - file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md
+[Debug 03:28:08.273] MdFoldingProvider: provideFoldingRanges — file:///home/paolo/soyHenry/henryChallengue/2022-12-17-yaaaps/README.md 1

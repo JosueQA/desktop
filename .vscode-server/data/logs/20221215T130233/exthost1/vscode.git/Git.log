@@ -1,0 +1,24 @@
+2022-12-15 13:02:40.483 [info] Log level: Info
+2022-12-15 13:02:40.483 [info] Validating found git in: "git"
+2022-12-15 13:02:40.483 [info] Using git "2.25.1" from "git"
+2022-12-15 13:02:40.483 [info] > git rev-parse --show-toplevel [33ms]
+2022-12-15 13:02:40.483 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2022-12-15 13:02:40.483 [info] Open repository: /home/paolo/develop/cursodeintroduccionareact
+2022-12-15 13:02:40.495 [info] > git rev-parse --show-toplevel [29ms]
+2022-12-15 13:02:40.510 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-15 13:02:40.519 [info] > git config --get commit.template [26ms]
+2022-12-15 13:02:40.538 [warning] No remotes found in the git config file.
+2022-12-15 13:02:40.538 [info] > git rev-parse --show-toplevel [22ms]
+2022-12-15 13:02:40.550 [info] > git remote --verbose [15ms]
+2022-12-15 13:02:40.551 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [23ms]
+2022-12-15 13:02:40.573 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2022-12-15 13:02:40.578 [info] > git status -z -uall [12ms]
+2022-12-15 13:02:40.629 [info] > git config --get commit.template [4ms]
+2022-12-15 13:02:40.641 [warning] No remotes found in the git config file.
+2022-12-15 13:02:40.644 [info] > git remote --verbose [3ms]
+2022-12-15 13:02:40.644 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2022-12-15 13:02:40.655 [info] > git status -z -uall [6ms]
+2022-12-15 13:02:40.656 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2022-12-15 13:02:40.984 [info] > git check-ignore -v -z --stdin [2ms]
+2022-12-15 13:02:41.011 [info] > git show --textconv :src/TodoItem.js [9ms]
+2022-12-15 13:02:41.012 [info] > git ls-files --stage -- /home/paolo/develop/cursodeintroduccionareact/src/TodoItem.js [4ms]

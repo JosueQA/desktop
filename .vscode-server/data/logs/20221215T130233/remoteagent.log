@@ -1,0 +1,7 @@
+2022-12-15 13:02:33.796 [info] Extension host agent started.
+2022-12-15 13:02:33.962 [info] Deleted from disk ms-ceintl.vscode-language-pack-es /home/paolo/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.74.12070935
+2022-12-15 13:02:34.701 [info] [127.0.0.1][d7a554c4][ManagementConnection] New connection established.
+2022-12-15 13:02:35.256 [info] [127.0.0.1][2ba47ada][ExtensionHostConnection] New connection established.
+2022-12-15 13:02:38.735 [info] [127.0.0.1][2ba47ada][ExtensionHostConnection] <344> Launched Extension Host Process.
+2022-12-15 16:14:02.062 [info] [127.0.0.1][d7a554c4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-15 16:14:02.343 [info] [127.0.0.1][2ba47ada][ExtensionHostConnection] <344> Extension Host Process exited with code: 0, signal: null.

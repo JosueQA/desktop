@@ -1,0 +1,14 @@
+2022-12-15 16:15:50.550 [info] Extension host agent started.
+2022-12-15 16:15:50.735 [info] [127.0.0.1][52a2985f][ManagementConnection] New connection established.
+2022-12-15 16:15:51.106 [info] [127.0.0.1][11635eea][ExtensionHostConnection] New connection established.
+2022-12-15 16:15:51.486 [info] [127.0.0.1][11635eea][ExtensionHostConnection] <1033> Launched Extension Host Process.
+2022-12-15 17:52:34.353 [info] [127.0.0.1][11635eea][ExtensionHostConnection] The client has reconnected.
+2022-12-15 17:52:34.453 [info] [127.0.0.1][52a2985f][ManagementConnection] The client has reconnected.
+2022-12-15 18:36:15.387 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself with code null, signal: SIGSEGV
+2022-12-15 20:59:47.195 [info] [127.0.0.1][11635eea][ExtensionHostConnection] The client has reconnected.
+2022-12-15 20:59:47.309 [info] [127.0.0.1][52a2985f][ManagementConnection] The client has reconnected.
+2022-12-15 21:31:04.879 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-15 21:52:19.164 [info] [127.0.0.1][52a2985f][ManagementConnection] The client has reconnected.
+2022-12-15 21:52:19.275 [info] [127.0.0.1][11635eea][ExtensionHostConnection] The client has reconnected.
+2022-12-15 23:30:19.854 [info] [127.0.0.1][52a2985f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-15 23:30:20.034 [info] [127.0.0.1][11635eea][ExtensionHostConnection] <1033> Extension Host Process exited with code: 0, signal: null.

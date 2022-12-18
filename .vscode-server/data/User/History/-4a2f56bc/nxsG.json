@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.root": "",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "material-icon-theme"
+}

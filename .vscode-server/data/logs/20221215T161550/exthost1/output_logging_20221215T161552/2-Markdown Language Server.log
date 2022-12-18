@@ -1,0 +1,43 @@
+[Trace 21:16:18.487] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:16:18.489] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:16:18.490] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:16:18.494] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:16:19.046] DocumentSymbolProvider: provideDocumentSymbols — file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md 1
+[Debug 21:16:19.046] LinkProvider: compute - file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Debug 21:16:19.199] TableOfContentsProvider: create - file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Debug 21:16:19.239] MdFoldingProvider: provideFoldingRanges — file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md 1
+[Trace 21:19:52.417] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/prepcourse/Prep-Course/00-PrimerosPasos/README.md
+[Trace 21:19:52.418] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:19:52.418] VsCodeClientWorkspace: deleteDocument: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:19:52.525] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/paolo/soyHenry/prepcourse/Prep-Course/00-PrimerosPasos/README.md
+[Trace 21:19:52.526] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/paolo/soyHenry/prepcourse/Prep-Course/00-PrimerosPasos/README.md
+[Trace 21:19:52.526] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/prepcourse/Prep-Course/00-PrimerosPasos/README.md
+[Trace 21:19:52.526] DocumentSymbolProvider: provideDocumentSymbols — file:///home/paolo/soyHenry/prepcourse/Prep-Course/00-PrimerosPasos/README.md 1
+[Debug 21:19:52.526] LinkProvider: compute - file:///home/paolo/soyHenry/prepcourse/Prep-Course/00-PrimerosPasos/README.md
+[Trace 21:19:52.528] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/prepcourse/Prep-Course/00-PrimerosPasos/README.md
+[Debug 21:19:52.553] TableOfContentsProvider: create - file:///home/paolo/soyHenry/prepcourse/Prep-Course/00-PrimerosPasos/README.md
+[Debug 21:19:52.646] MdFoldingProvider: provideFoldingRanges — file:///home/paolo/soyHenry/prepcourse/Prep-Course/00-PrimerosPasos/README.md 1
+[Trace 21:20:58.995] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/paolo/soyHenry/prepcourse/Prep-Course/00-PrimerosPasos/README.md
+[Trace 21:20:58.995] VsCodeClientWorkspace: deleteDocument: file:///home/paolo/soyHenry/prepcourse/Prep-Course/00-PrimerosPasos/README.md
+[Trace 21:21:04.558] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:21:04.589] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:21:04.589] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:21:04.590] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:21:04.590] DocumentSymbolProvider: provideDocumentSymbols — file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md 1
+[Debug 21:21:04.590] LinkProvider: compute - file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:21:04.591] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Debug 21:21:04.600] TableOfContentsProvider: create - file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Debug 21:21:04.776] MdFoldingProvider: provideFoldingRanges — file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md 1
+[Trace 21:49:52.909] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:49:52.909] VsCodeClientWorkspace: deleteDocument: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01a-Git/homework/README.md
+[Trace 21:49:53.674] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01b-Git.-y-GitHub/README.md
+[Trace 21:49:53.737] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01b-Git.-y-GitHub/README.md
+[Trace 21:49:53.737] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01b-Git.-y-GitHub/README.md
+[Trace 21:49:53.738] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01b-Git.-y-GitHub/README.md
+[Trace 21:49:53.738] DocumentSymbolProvider: provideDocumentSymbols — file:///home/paolo/soyHenry/prepcourse/Prep-Course/01b-Git.-y-GitHub/README.md 1
+[Debug 21:49:53.738] LinkProvider: compute - file:///home/paolo/soyHenry/prepcourse/Prep-Course/01b-Git.-y-GitHub/README.md
+[Trace 21:49:53.740] Server: connection.languages.diagnostics.on: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01b-Git.-y-GitHub/README.md
+[Debug 21:49:53.817] TableOfContentsProvider: create - file:///home/paolo/soyHenry/prepcourse/Prep-Course/01b-Git.-y-GitHub/README.md
+[Debug 21:49:53.900] MdFoldingProvider: provideFoldingRanges — file:///home/paolo/soyHenry/prepcourse/Prep-Course/01b-Git.-y-GitHub/README.md 1
+[Trace 04:28:59.817] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01b-Git.-y-GitHub/README.md
+[Trace 04:28:59.817] VsCodeClientWorkspace: deleteDocument: file:///home/paolo/soyHenry/prepcourse/Prep-Course/01b-Git.-y-GitHub/README.md

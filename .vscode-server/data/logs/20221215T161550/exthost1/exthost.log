@@ -1,0 +1,20 @@
+2022-12-15 16:15:52.202 [info] Extension host with pid 1033 started
+2022-12-15 16:15:52.312 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2022-12-15 16:15:52.327 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2022-12-15 16:15:52.409 [info] Lock '/home/paolo/.vscode-server/data/User/workspaceStorage/54bb5f8019a35649e08ca510d127058b/vscode.lock': Lock acquired.
+2022-12-15 16:15:52.601 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-15 16:15:52.700 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-15 16:15:52.701 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-15 16:15:52.701 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-15 16:15:52.702 [info] Eager extensions activated
+2022-12-15 16:15:59.186 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2022-12-15 16:15:59.289 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2022-12-15 16:16:11.265 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2022-12-15 16:16:11.266 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2022-12-15 16:16:11.267 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2022-12-15 16:16:17.912 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2022-12-15 16:16:19.148 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2022-12-15 23:28:59.886 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2022-12-15 23:30:19.853 [info] Extension host terminating: received terminate message from renderer
+2022-12-15 23:30:19.854 [info] Lock '/home/paolo/.vscode-server/data/User/workspaceStorage/54bb5f8019a35649e08ca510d127058b/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-15 23:30:19.953 [info] Extension host with pid 1033 exiting with code 0

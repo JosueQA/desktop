@@ -1,0 +1,12 @@
+2022-12-08 12:21:32.527 [info] Extension host agent started.
+2022-12-08 12:21:32.690 [info] [127.0.0.1][72e706fe][ManagementConnection] New connection established.
+2022-12-08 12:21:32.851 [info] Deleted from disk ms-ceintl.vscode-language-pack-es /home/paolo/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.73.11020955
+2022-12-08 12:21:32.993 [info] [127.0.0.1][e2ea90af][ExtensionHostConnection] New connection established.
+2022-12-08 12:21:33.693 [info] [127.0.0.1][e2ea90af][ExtensionHostConnection] <599> Launched Extension Host Process.
+2022-12-08 14:55:45.039 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-08 16:08:47.818 [info] [127.0.0.1][72e706fe][ManagementConnection] The client has reconnected.
+2022-12-08 16:08:47.969 [info] [127.0.0.1][e2ea90af][ExtensionHostConnection] The client has reconnected.
+2022-12-08 20:29:31.166 [info] [127.0.0.1][e2ea90af][ExtensionHostConnection] The client has reconnected.
+2022-12-08 20:29:31.280 [info] [127.0.0.1][72e706fe][ManagementConnection] The client has reconnected.
+2022-12-09 00:51:47.888 [info] [127.0.0.1][72e706fe][ManagementConnection] The client has reconnected.
+2022-12-09 00:51:48.146 [info] [127.0.0.1][e2ea90af][ExtensionHostConnection] The client has reconnected.
